@@ -1,0 +1,1 @@
+# plugins-url-coupons-for-woocommerce-by-algoritmika
